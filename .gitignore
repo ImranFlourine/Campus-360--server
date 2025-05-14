@@ -1,0 +1,56 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Runtime
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build output
+dist/
+build/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Misc
+.DS_Store
+*.tgz
+.cache/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional: If using TypeScript
+*.tsbuildinfo
+
+# Optional: If using PM2 process manager
+pids/
+*.pid
+
+# Optional: If using Next.js
+.next/
+
+# Optional: If using Expo or React Native Web
+.expo/
+.expo-shared/

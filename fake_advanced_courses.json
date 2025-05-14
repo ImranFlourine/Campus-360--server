@@ -1,0 +1,42 @@
+[
+    {
+      "courseTitle": "Mastering ReactJS for Web Apps",
+      "subTitle": "Build scalable and maintainable UIs",
+      "description": "This course will guide you from the basics of ReactJS to building a fully functioning web application. You’ll learn JSX, hooks, state management and more.",
+      "category": "Frontend",
+      "courseLevel": "Beginner",
+      "coursePrice": 499,
+      "courseThumbnail": "https://source.unsplash.com/featured/?reactjs&sig=100",
+      "enrolledStudents": [],
+      "lectures": [],
+      "creator": "660b1fddbda71c3e2d8e1b01",
+      "isPublished": true
+    },
+    {
+      "courseTitle": "Advanced Node.js API Development",
+      "subTitle": "Backend development with Node, Express, and MongoDB",
+      "description": "Create RESTful APIs with authentication, CRUD operations, and database connectivity. Ideal for backend devs aiming to deepen their skills.",
+      "category": "Backend",
+      "courseLevel": "Advance",
+      "coursePrice": 799,
+      "courseThumbnail": "https://source.unsplash.com/featured/?nodejs&sig=101",
+      "enrolledStudents": [],
+      "lectures": [],
+      "creator": "660b1fddbda71c3e2d8e1b02",
+      "isPublished": true
+    },
+    {
+      "courseTitle": "Fullstack MERN Bootcamp",
+      "subTitle": "Build complete applications with Mongo, Express, React, and Node",
+      "description": "In this immersive course, you will learn to build a fully working full-stack application using the MERN stack with real-world deployment techniques.",
+      "category": "Fullstack",
+      "courseLevel": "Medium",
+      "coursePrice": 699,
+      "courseThumbnail": "https://source.unsplash.com/featured/?mernstack&sig=102",
+      "enrolledStudents": [],
+      "lectures": [],
+      "creator": "660b1fddbda71c3e2d8e1b03",
+      "isPublished": true
+    }
+  ]
+  
